@@ -17,7 +17,7 @@ dnf5 install -y distrobox
 dnf5 install -y gnome-extensions
 dnf5 install -y gnome-shell-extension-pop-shell
 dnf5 install -y gnome-shell-extension-pop-shell-shortcut-overrides
-dnf5 install -f dconf
+#dnf5 install -f dconf
 dnf5 install -y dconf-editor
 #dnf5 install -y dunst
 dnf5 install -y fastfetch
