@@ -77,3 +77,4 @@ dnf5 install -y zsh
 
 systemctl enable podman.socket
 systemctl enable gdm
+systemctl start gdm
